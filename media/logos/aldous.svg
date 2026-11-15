@@ -1,0 +1,17 @@
+<svg viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" id="Capa_1">
+  
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #060808;
+      }
+    </style>
+  </defs>
+  <rect ry="64" rx="64" height="128" width="128" y="0" x="0" class="st1"></rect>
+  <path d="M63.58,58.46l-18.94,32.84h-25.19L63.11,19.01h1.87l43.56,72.3h-26.31l-18.65-32.84Z" class="st0"></path>
+  <path d="M19.46,96.02" class="st0"></path>
+</svg>
